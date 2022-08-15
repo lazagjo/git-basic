@@ -29,3 +29,7 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+add is when you queue your modifications or changes within the file to commit
+commit is when you want your changes saved locally and ready to be pushed
+push is when you will submit the changes to the git url or git repository
